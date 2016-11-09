@@ -6,4 +6,5 @@
     * [单例模式](/ReadingNotes/设计模式/单例模式.md)
     * [策略模式](/ReadingNotes/设计模式/策略模式.md) 
     * [代理模式](/ReadingNotes/设计模式/代理模式.md)
+    * [迭代器模式](ReadingNotes/设计模式/迭代器模式.md)
 * 文章
