@@ -10,4 +10,5 @@
   * [你不知道的javascript上卷](/ReadingNotes/你不知道的JavaScript上卷)
     * [第一章作用域是什么](/ReadingNotes/你不知道的JavaScript上卷/第一章作用域是什么.md)
     * [第二章词法作用域](/ReadingNotes/你不知道的JavaScript上卷/第二章词法作用域.md)
+    * [第三章函数作用域和块作用域](/ReadingNotes/你不知道的JavaScript上卷/第三章函数作用域和块作用域.md)
 * 文章
