@@ -9,4 +9,5 @@
     * [迭代器模式](ReadingNotes/设计模式/迭代器模式.md)
   * [你不知道的javascript上卷](/ReadingNotes/你不知道的JavaScript上卷)
     * [第一章作用域是什么](/ReadingNotes/你不知道的JavaScript上卷/第一章作用域是什么.md)
+    * [第二章词法作用域](/ReadingNotes/你不知道的JavaScript上卷/第二章词法作用域.md)
 * 文章
