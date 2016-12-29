@@ -18,4 +18,5 @@
       * [第一章作用域是什么](/ReadingNotes/你不知道的JavaScript上卷/This & Object Prototypes/第一章关于this.md)
       * [第二章this全面解析](/ReadingNotes/你不知道的JavaScript上卷/This & Object Prototypes/第二章this全面解析.md)
       * [第三章对象](/ReadingNotes/你不知道的JavaScript上卷/This & Object Prototypes/第三章对象.md)
+      * [第四章混合对象"类"](/ReadingNotes/你不知道的JavaScript上卷/This & Object Prototypes/第四章混合对象"类".md)
 * 文章
